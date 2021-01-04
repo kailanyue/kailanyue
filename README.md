@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<a href="https://github.com/geekyouth" target="_blank">   
+  <img src="https://github-readme-stats.vercel.app/api?username=kailanyue&show_icons=true&theme=monokai&count_private=true" alt="个人概况">
+</a>
 <!--
 **kailanyue/kailanyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=kailanyue&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-<!--
+
 <a href="https://github.com/geekyouth" target="_blank">   
   <img src="https://github-readme-stats.vercel.app/api?username=kailanyue&show_icons=true&theme=monokai&count_private=true" alt="个人概况">
 </a>
