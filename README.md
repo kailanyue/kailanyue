@@ -1,6 +1,6 @@
 ### 😄😄😄🤔🤔🤔
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=kailanyue&theme=blood&local=en_SG&date_format=[Y-m-d])](https://git.io/streak-stats)
 [![kailan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kailanyue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
